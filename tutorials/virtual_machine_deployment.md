@@ -1,3 +1,4 @@
+# Virtual machine deployment
 At PlannerStack we are working hard towards real-time multimodal journey planners, available to anyone as a commodity. We envision that launching an affordable Software as a Service (SaaS) solution brings us closer to this goal. In the past year we collaborated with many skilled developers from a variety of solution providers to bring OpenTripPlanner to the masses. In this blog we layout the required effort to compress all that labor into a single deployable image. 
 
 # Infrastructure as a service
