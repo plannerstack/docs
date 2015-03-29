@@ -11,5 +11,5 @@ pages:
 - ['endpoints/ndov_plus.md', 'Endpoints', 'NDOV+']
 - ['endpoints/planner.md', 'Endpoints', 'Planner']
 - ['endpoints/premium_planner.md', 'Endpoints', 'Premium Planner']
-- ['tutorials/virtual_machine_deployent.md', 'Tutorials', 'Virtual machine deployment']
+- ['tutorials/virtual_machine_deployment.md', 'Tutorials', 'Virtual machine deployment']
 - ['tutorials/osm_fix.md', 'Tutorials', 'OSM data fixes']
