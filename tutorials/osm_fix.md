@@ -40,7 +40,7 @@ mkdir build
 Open josm and download the adjusted part OSM stuk dat je wilt testen
 Save As (in the build folder)
 ```
-java -jar target/otp.jar -b build -m
+java -jar target/otp.jar --build build --inMemory
 http://127.0.0.1:8080 #Select Walk Only
 ```
 Check if OSM fix works (if so, make sure to publish your fix to OpenStreetMap!)
