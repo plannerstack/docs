@@ -32,7 +32,7 @@ git clone https://github.com/opentripplanner/OpenTripPlanner.git
 echo "BUILD OTP"
 cd OpenTripPlanner
 mvn clean verify -DskipTests # Or don't skip tests if you don't want to
-# otp.jar is nu in /target
+# otp-0.15.0-SNAPSHOT.jar is nu in /target (or with a different version if newer)
 mkdir build
 ```
 
@@ -40,7 +40,7 @@ mkdir build
 Open josm and download the adjusted part OSM stuk dat je wilt testen
 Save As (in the build folder)
 ```
-java -jar target/otp.jar --build build --inMemory
+java -jar target/otp-0.15.0-SNAPSHOT.jar --build build --inMemory
 http://127.0.0.1:8080 #Select Walk Only
 ```
 Check if OSM fix works (if so, make sure to publish your fix to OpenStreetMap!)
