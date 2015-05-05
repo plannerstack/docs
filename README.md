@@ -6,10 +6,15 @@ An overview of all the Plannerstack documentation.
 
 ### Data source: OpenOV
 
+![Available](/images/check-square-o_5cb85c_32.png "Available")
+![Limited](/images/check-square-o_f0ad4e_32.png "Limited")
+![Not available](/images/close_d9534f_32.png "Not available")
+![Legal](/images/check-square-o_5cb85c_32.png "Legal")
+
 | ----- |
 |  Vervoerder (PTO) |  Static |  Dynamic |  Tariffs |
-|  Arriva |  :white_check_mark: |  :white_check_mark:  |  :white_check_mark:  |
-|  Connexxion |  [&#xf00c;]  |  <i class="fa fa-check-circle text-success "></i>  |  __  |
+|  Arriva |  ![Available](/images/check-square-o_5cb85c_32.png "Available") |  :white_check_mark:  |  :white_check_mark:  |
+|  Connexxion |  ![Available](/images/check-square-o_5cb85c_32.png "Available")  |   |  __  |
 |  EBS |  __  |  __  |  __  |
 |  Qbuzz |  __  |  __  |  __  |
 |  Veolia |  __  |  __  |  __  |
