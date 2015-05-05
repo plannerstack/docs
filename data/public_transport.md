@@ -54,6 +54,7 @@ In the table below an overview is provided of all PTO's that deliver their data 
 | Veolia           |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |
 | Wagenborg        | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |
 | Westers. Ferry   | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |
+
 ## Data source: OpenOV
 
 In the table below an overview is provided of all PTO's that deliver their data directly to the [OpenOV](https://http://openov.nl//) and therefore provided under a [CC-0 license](https://creativecommons.org/publicdomain/zero/1.0/).
