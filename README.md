@@ -9,7 +9,7 @@ An overview of all the Plannerstack documentation.
 | ----- |
 |  Vervoerder (PTO) |  Static |  Dynamic |  Tariffs |
 |  Arriva |  :white_check_mark: |  :white_check_mark:  |  :white_check_mark:  |
-|  Connexxion |  [&#xf00c;]  |  __  |  __  |
+|  Connexxion |  [&#xf00c;]  |  <i class="fa fa-check-circle text-success "></i>  |  __  |
 |  EBS |  __  |  __  |  __  |
 |  Qbuzz |  __  |  __  |  __  |
 |  Veolia |  __  |  __  |  __  |
