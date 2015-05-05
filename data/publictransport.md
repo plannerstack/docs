@@ -2,7 +2,7 @@
 
 <!-- ICONS
 ![Available](/images/check-square-o_5cb85c_32.png "Available")
-![Limited](/images/check-square-o_f0ad4e_32.png "Limited")
+![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")
 ![Not available](/images/minus-circle_d9534f_32.png "Not available")
 ![Legal](/images/legal_f0ad4e_32.png "Legal")
  -->
@@ -19,14 +19,14 @@ In the table below an overview is provided of all PTO's that deliver their data 
 | Doeksen          |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |              
 | EBS              |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |
 | GVB              |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    | 
-| HTM              |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |    ![Available](/images/check-square-o_5cb85c_32.png "Available")    |
-| NS               | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           |
-| QBUZZ            | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           |
-| RET              | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           |
+| HTM              | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           |
+| NS               | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           |
+| QBUZZ            | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           |
+| RET              | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           |
 | Syntus           | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Legal](/images/legal_f0ad4e_32.png "Legal") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |
 | TCR Vlieland     | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |                                                                     |
 | TESO             | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |                                                                   |
-| U-OV             | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")           |                                                                      |
+| U-OV             | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           | ![Indirect](/images/check-square-o_f0ad4e_32.png "Indirect")           |                                                                      |
 | Veolia           | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |
 | Wagenborg        | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |                                                                      |
 | Westers. Ferry   | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") | ![Not available](/images/minus-circle_d9534f_32.png "Not available") |
