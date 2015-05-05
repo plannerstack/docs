@@ -9,6 +9,15 @@ In the table below an overview is provided of all PTO's that deliver their data 
 ![Not available](/images/close_d9534f_32.png "Not available")
 ![Legal](/images/check-square-o_5cb85c_32.png "Legal")
 
+| Vervoerder (PTO) |                             Static                             |                             Dynamic                            |                             Tariffs                            |
+|------------------|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:--------------------------------------------------------------:|
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Connexxion       | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")     | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")     | ![Limited](/images/check-square-o_f0ad4e_32.png "Limited")     |
+| EBS              | ![Not available](/images/close_d9534f_32.png "Not available")  | ![Not available](/images/close_d9534f_32.png "Not available")  | ![Not available](/images/close_d9534f_32.png "Not available")  |
+| QBUZZ            | ![Legal](/images/check-square-o_5cb85c_32.png "Legal")         | ![Legal](/images/check-square-o_5cb85c_32.png "Legal")         | ![Legal](/images/check-square-o_5cb85c_32.png "Legal")         |
+
+
+
 | ----- |
 |  Vervoerder (PTO) |  Static |  Real-time |  Tariffs |
 |------------------|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-------:|
@@ -62,7 +71,23 @@ In the table below an overview is provided of all PTO's that deliver their data 
 | ----- |
 |  Vervoerder (PTO) |  Static |  Real-time |  Tariffs |
 |------------------|:--------------------------------------------------------------:|:--------------------------------------------------------------:|:-------:|
-| Arriva | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Not available](/images/close_d9534f_32.png "Not available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+| Arriva           | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") |
+
+
+
 | Connexxion | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Not available](/images/close_d9534f_32.png "Not available") |
 | Doeksen | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Not available](/images/close_d9534f_32.png "Not available") |
 | EBS | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Available](/images/check-square-o_5cb85c_32.png "Available") | ![Not available](/images/close_d9534f_32.png "Not available") |
