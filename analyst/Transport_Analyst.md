@@ -57,20 +57,20 @@ The Marseille Metropole mission of the Provence—Alpes—Côte d’Azur region
 
 ## Visualization of individual transport supply
 
-[Conveyal](http://conveyal.com/) also has tools to automatically generate subsets of a schematic network map that are relevant for a particular origin/destination pair, accounting for combined frequencies on common trunks and redundancy: http://[Conveyal](http://conveyal.com/).com/blog/2015/02/24/what-is-profile-routing/
+[Conveyal](http://conveyal.com/) also has tools to automatically generate subsets of a schematic network map that are relevant for a particular origin/destination pair, accounting for combined frequencies on common trunks and redundancy: http://conveyal.com/blog/2015/02/24/what-is-profile-routing/
 
 ![Individual transport][Individual transport]
 
 Note: this functionality is currently part of another [Conveyal](http://conveyal.com/) product (Modeify), but it may be integrated with Transport Analyst eventually.
 
-[Accessibility]: /images/tpa/accessibility.png "Accessibility"
-[Multi-origin]: /images/tpa/multi-origin.png "Multi-origin"
-[Combine]: /images/tpa/combine.png "Combine"
-[many-to-many]: /images/tpa/many-to-many.png "many-to-many"
-[Alternatives]: /images/tpa/alternatives.png "Alternatives"
-[Visualizations]: /images/tpa/visualizations.png "Visualizations"
-[School]: /images/tpa/school.png "School"
-[large-scale]: /images/tpa/large-scale.png "large-scale"
-[Job access]: /images/tpa/job-access.png "Job access"
-[Regional network]: /images/tpa/regional-network.png "Regional network"
-[Individual transport]: /images/tpa/individual-transport.png "Individual transport"
+[Accessibility]: /images/tpa/accessibility.jpg "Accessibility"
+[Multi-origin]: /images/tpa/multi-origin.jpg "Multi-origin"
+[Combine]: /images/tpa/combine.jpg "Combine"
+[many-to-many]: /images/tpa/many-to-many.jpg "many-to-many"
+[Alternatives]: /images/tpa/alternatives.jpg "Alternatives"
+[Visualizations]: /images/tpa/visualizations.jpg "Visualizations"
+[School]: /images/tpa/school.jpg "School"
+[large-scale]: /images/tpa/large-scale.jpg "large-scale"
+[Job access]: /images/tpa/job-access.jpg "Job access"
+[Regional network]: /images/tpa/regional-network.jpg "Regional network"
+[Individual transport]: /images/tpa/individual-transport.jpg "Individual transport"
