@@ -30,34 +30,33 @@ This is the true goal of Transport Analyst and our most sophisticated analysis, 
 
 ## Visualizations for the General Public
 
-To encourage debate about transportation planning and ensure communication with the general public, it is possible to publish sets of results in a simplified or “locked” interface on the web. For example, The New York Regional Plan Association’s site shows access to jobs by economic sector and level of education, with interactive isochrones and job counts in 10 categories: http://fragile-success.rpa.org/maps/jobs.html
+To encourage debate about transportation planning and ensure communication with the general public, it is possible to publish sets of results in a simplified or “locked” interface on the web. For example, The New York Regional Plan Association’s site shows access to jobs by economic sector and level of education, with interactive isochrones and job counts in 10 categories: [http://fragile-success.rpa.org/maps/jobs.html](http://fragile-success.rpa.org/maps/jobs.html)
 
 ![Visualizations][Visualizations]
 
-This site developed with Waag Society showing access to schools in Amsterdam with interactive isochrones:
-http://code.waag.org/scholen/
+This site developed with Waag Society showing access to schools in Amsterdam with interactive isochrones: [http://code.waag.org/scholen/](http://code.waag.org/scholen/)
 
 ![School][School]
 
 ## Detailed large-scale case studies
 
-Many custom case studies have been conducted using OpenTripPlanner Analyst. For example, the following image shows the reduction in accessibility for every location in NYC due to tunnel flooding during hurricane Sandy: http://www.citylab.com/commute/2013/01/best-maps-weve-seen-sandys-transit-outage-new-york/ 4488/
+Many custom case studies have been conducted using OpenTripPlanner Analyst. For example, the following image shows the reduction in accessibility for every location in NYC due to tunnel flooding during hurricane Sandy: [http://www.citylab.com/commute/2013/01/best-maps-weve-seen-sandys-transit-outage-new-york/ 4488/](http://www.citylab.com/commute/2013/01/best-maps-weve-seen-sandys-transit-outage-new-york/ 4488/)
 
 ![large-scale][large-scale]
 
-The Minnesota Accessibility Observatory has created maps of job access for the entire United States: http:// access.umn.edu/research/america/transit2014/maps/index.html
+The Minnesota Accessibility Observatory has created maps of job access for the entire United States: [http://access.umn.edu/research/america/transit2014/maps/index.html](http://access.umn.edu/research/america/transit2014/maps/index.html)
 
 ![Job access][Job access]
 
 ## Understanding a regional network
 
-The Marseille Metropole mission of the Provence—Alpes—Côte d’Azur region in France uses OpenTripPlanner to visualize the metropolitan area’s transport options as a cohesive whole, to be understood in terms of access to facilities and employment: http://62.210.125.178/marseille/
+The Marseille Metropole mission of the Provence—Alpes—Côte d’Azur region in France uses OpenTripPlanner to visualize the metropolitan area’s transport options as a cohesive whole, to be understood in terms of access to facilities and employment: [http://62.210.125.178/marseille/](http://62.210.125.178/marseille/)
 
 ![Regional network][Regional network]
 
 ## Visualization of individual transport supply
 
-[Conveyal](http://conveyal.com/) also has tools to automatically generate subsets of a schematic network map that are relevant for a particular origin/destination pair, accounting for combined frequencies on common trunks and redundancy: http://conveyal.com/blog/2015/02/24/what-is-profile-routing/
+[Conveyal](http://conveyal.com/) also has tools to automatically generate subsets of a schematic network map that are relevant for a particular origin/destination pair, accounting for combined frequencies on common trunks and redundancy: [http://conveyal.com/blog/2015/02/24/what-is-profile-routing/](http://conveyal.com/blog/2015/02/24/what-is-profile-routing/)
 
 ![Individual transport][Individual transport]
 
