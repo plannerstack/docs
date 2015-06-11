@@ -2,20 +2,20 @@ site_name: Plannerstack documentation
 site_favicon: favicon.ico
 
 pages:
-- 'Introduction': 'README.md'
-- 'Endpoints':
-    - 'Bag42': 'endpoints/bag42.md'
-    - 'NDOV+': 'endpoints/ndov_plus.md'
-    - 'Planner': 'endpoints/planner.md'
-    - 'Premium Planner': 'endpoints/premium_planner.md'
-- 'Tutorials':
-    - 'Virtual machine deployment': 'tutorials/virtual_machine_deployment.md'
-    - 'OSM data fixes': 'tutorials/osm_fix.md'
-- 'Data':
-    - 'Public Transport': 'data/public_transport.md'
-- 'Bliksem':
-    - 'Introduction': 'bliksem/Introduction.md'
-    - 'Schedules': 'bliksem/schedules.md'
-    - 'Data model RID': 'bliksem/datamodel_rid.md'
-- 'Analyst':
-    - 'Transport Analyst': 'analyst/Transport_Analyst.md'
+# - 'Introduction': 'README.md'
+# - 'Endpoints':
+#     - 'Bag42': 'endpoints/bag42.md'
+#     - 'NDOV+': 'endpoints/ndov_plus.md'
+#     - 'Planner': 'endpoints/planner.md'
+#     - 'Premium Planner': 'endpoints/premium_planner.md'
+# - 'Tutorials':
+#     - 'Virtual machine deployment': 'tutorials/virtual_machine_deployment.md'
+#     - 'OSM data fixes': 'tutorials/osm_fix.md'
+# - 'Data':
+#     - 'Public Transport': 'data/public_transport.md'
+# - 'Bliksem':
+#     - 'Introduction': 'bliksem/Introduction.md'
+#     - 'Schedules': 'bliksem/schedules.md'
+#     - 'Data model RID': 'bliksem/datamodel_rid.md'
+# - 'Analyst':
+#     - 'Transport Analyst': 'analyst/Transport_Analyst.md'
