@@ -1,5 +1,6 @@
 site_name: Plannerstack documentation
 site_favicon: favicon.ico
+docs_dir: "."
 
 pages:
 # - 'Introduction': 'README.md'
