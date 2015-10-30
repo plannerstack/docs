@@ -1,5 +1,3 @@
-Plannerstack is a travel planning platform that combines data from (almost) all Dutch public transport (trains, buses, trams, etc) providers, to provide the most complete public transport data services.
-
 # Plannerstack documentation
 
 Welcome to the Plannerstack documentation! Good to have you here!
