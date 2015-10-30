@@ -1,7 +1,7 @@
 site_name: Plannerstack documentation
 site_favicon: favicon.ico
 
-pages:
+# pages:
 # - 'Introduction': 'README.md'
 # - 'Endpoints':
 #     - 'Bag42': 'endpoints/bag42.md'
