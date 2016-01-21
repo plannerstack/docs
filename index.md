@@ -1,7 +1,5 @@
 # Plannerstack Kickstart documentation
 
-### Introduction
-
 To get you kickstarted, first a quick introduction to the world of Plannerstack:
 
 0. In the Netherlands we have a lot of Busses, trains, trams driving around continuously, just check out [ovradar](http://ovradar.nl) for how many there are currently on the move.
