@@ -76,8 +76,8 @@ The OpenTripPlanner above makes use of a unified data-format ([GTFS](https://dev
 
 Currently there are two seperate feeds for the schedules offered:
 
-0. a GTFS feed containing the schedules from the biggest Dutch rail road provider "NS" - [download](#coming-soon) **coming soon**
-0. a GTFS feed containing all other available public transport schedules - [download](#coming-soon) **coming soon**
+0. a GTFS feed containing the schedules from the biggest Dutch rail road provider "NS" - [download](http://gtfs.plannerstack.com/nl/gtfs-iff-nl.zip)
+0. a GTFS feed containing all other available public transport schedules - [download](http://gtfs.plannerstack.com/nl/gtfs-nl.zip)
 
 
 *****
