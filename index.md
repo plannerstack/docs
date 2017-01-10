@@ -61,7 +61,7 @@ Missing here are the date and time parameters, on purpose, otherwise this exampl
 &date=10-30-2015&time=22%3A16
 ```
 
-Again, check out the documentation of the plan resource in the [API documentation](http://dev.opentripplanner.org/apidoc/0.15.0/resource_PlannerResource.html) of OTP for more options. Or (it's open source anyway), check out the [actual code](https://github.com/opentripplanner/OpenTripPlanner/blob/master/src/main/java/org/opentripplanner/api/common/RoutingResource.java) behind the endpoint.
+Again, check out the documentation of the plan resource in the [API documentation](http://dev.opentripplanner.org/apidoc/1.0.0/resource_PlannerResource.html) of OTP for more options. Or (it's open source anyway), check out the [actual code](https://github.com/opentripplanner/OpenTripPlanner/blob/master/src/main/java/org/opentripplanner/api/common/RoutingResource.java) behind the endpoint.
 
 *****
 ** This demo service is free to use. If you want more than a fair-use policy, want nightly data updates and an SLA, consider signing up for [the Dutch Multi-Modal Planner API subscription plan of plannerstack.com](https://app.moonclerk.com/pay/y22td5kfa1).**
