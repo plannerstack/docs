@@ -21,7 +21,7 @@ It’s good to know that OpenTripplanner consists of a Java backend for routing 
 
 ![The OTP Demo Planner](/images/demo-planner.png "The OTP Demo Planner")
 
-[Visit the demo client](http://demo.planner.plannerstack.com/?module=planner&fromPlace=51.923943445544715%2C4.4659423828125&toPlace=52.38901106223458%2C4.9658203125&mode=TRANSIT%2CWALK&maxWalkDistance=3000&arriveBy=false&wheelchair=false) and [open up your Browser Dev Tools](https://developers.google.com/web/tools/chrome-devtools/) to see the actual REST-calls going out to the OTP server. The REST API endpoint the planner talks to is served on `/otp/routers/default/plan` ([API documentation](http://dev.opentripplanner.org/apidoc/0.15.0/resource_PlannerResource.html)).
+[Visit the demo client](http://demo.planner.plannerstack.com/?module=planner&fromPlace=51.923943445544715%2C4.4659423828125&toPlace=52.38901106223458%2C4.9658203125&mode=TRANSIT%2CWALK&maxWalkDistance=3000&arriveBy=false&wheelchair=false) and [open up your Browser Dev Tools](https://developers.google.com/web/tools/chrome-devtools/) to see the actual REST-calls going out to the OTP server. The REST API endpoint the planner talks to is served on `/otp/routers/default/plan` ([API documentation](http://dev.opentripplanner.org/apidoc/1.0.0/resource_PlannerResource.html)).
 
 An example call URL towards this endpoint is:
 
